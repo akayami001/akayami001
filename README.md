@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akayami001&label=Profile%20views&color=0e75b6&style=flat" alt="akayami001" /> </p>
 
-- 🔭 I’m currently working on [Gym-api Project](https://github.com/akayami001/gymApi-app)
+- 🔭 I’m currently working on [Movie-app](https://github.com/akayami001/movie.app)
 
 - 🌱 I’m currently learning **TypeScript & Vue.js**
 
