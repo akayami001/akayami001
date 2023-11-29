@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akayami001&label=Profile%20views&color=0e75b6&style=flat" alt="akayami001" /> </p>
 
-- 🔭 I’m currently working on [Movie-app](https://github.com/akayami001/movie.app)
+- 🔭 I’m currently working on [React-Dashboard]((https://github.com/akayami001/Admin-dashboard))
 
-- 🌱 I’m currently learning **TypeScript & Vue.js**
+- 🌱 I’m currently learning **React-Query**
 
 - 👨‍💻 All of my projects are available at [https://akayami001-portfolio.netlify.app/](https://akayami001-portfolio.netlify.app/)
 
